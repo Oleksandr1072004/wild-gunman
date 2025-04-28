@@ -333,7 +333,7 @@ body {
   width: 800px;
   height: 480px;
 
-  background: url(../assets/main-background.png) no-repeat;
+  background: url(../assets/win-bg.png) no-repeat;
 }
 
 .win-screen__title {
